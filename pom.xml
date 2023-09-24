@@ -14,7 +14,9 @@
 	<name>38_SB_REST_H2_DB_APP</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>1.8</java.version>
+	 <sonar.host.url>http://43.204.30.110:9000/</sonar.host.url>
+	 <sonar.login>admin</sonar.login>
+	 <sonar.password>admin</sonar.password>
 	</properties>
 	<dependencies>
 		<dependency>
